@@ -4,7 +4,7 @@ import os
 from random import randrange
 from math import ceil
 
-# Déclaration des variables de départ
+# Déclaration des variables de départ jamil
 argent = 1000 # On a 1000 $ au début du jeu
 continuer_partie = True # Booléen qui est vrai tant qu'on doit
                         # continuer la partie
